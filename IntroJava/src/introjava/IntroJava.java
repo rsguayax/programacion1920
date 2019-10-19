@@ -17,10 +17,7 @@ public class IntroJava {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Bienvenidos a la programación en Java");
-        System.out.println("Este código va ha ser subido en github en el repositorio: programacion1920");
-    
-        
-        
+        System.out.println("Este código va ha ser subido en github en el repositorio: programacion1920"); 
     }
     
 }
